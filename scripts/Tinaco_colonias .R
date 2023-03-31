@@ -51,7 +51,6 @@ nafo <- north_arrow_fancy_orienteering(
 # Paleta y breaks
 paleta <- c( "#093a46","#106174","#1687a3","#3cc4e5","gray50", "gray85" )
 
-ramp <-  c("6","5","4", "3", "2", "1", "NA")
 
 breaks <- c(0,25,50,75,100) # Son generales para todas las localidades, si se tiene que hacer una clasificación específica a la localidad se debe incorporar a la función
 

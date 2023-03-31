@@ -3,24 +3,24 @@
     "path": "E:/R projects/Mapas Colonias Sonora/scripts/Tinaco_colonias .R",
     "project_path": "scripts/Tinaco_colonias .R",
     "type": "r_source",
-    "hash": "440879543",
+    "hash": "36352975",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1680109049363.0,
     "source_on_save": false,
     "relative_order": 7,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "16,29",
-        "scrollLine": "0"
+        "cursorPosition": "52,0",
+        "scrollLine": "48"
     },
     "folds": "",
-    "lastKnownWriteTime": 1680218438,
+    "lastKnownWriteTime": 1680280888,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1680218699893,
+    "last_content_update": 1680280887334,
     "read_only": false,
     "read_only_alternatives": []
 }
